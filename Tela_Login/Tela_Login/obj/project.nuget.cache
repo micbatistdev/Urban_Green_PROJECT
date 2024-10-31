@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xtf+VBcxXf8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\OneDrive\\Área de Trabalho\\Tela_Login\\Tela_Login\\Tela_Login\\Tela_Login.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.26100.44\\microsoft.windows.sdk.net.ref.10.0.26100.44.nupkg.sha512"
+  ],
+  "logs": []
+}
